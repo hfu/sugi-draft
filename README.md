@@ -1,5 +1,8 @@
 # Source repository for strategic use of geospatial information
 
+## Overview
+The "Source repository for strategic use of geospatial information" project aims to provide high-quality geospatial datasets and tools to support a variety of applications, including urban planning, disaster management, environmental monitoring, and infrastructure development. By offering datasets such as `thai-amx`, `bkk_background`, and `tls_all_background`, this repository serves as a centralized resource for accessing and utilizing geospatial information. Each dataset is designed to meet specific regional needs and is accompanied by demos and technical documentation to facilitate ease of use. The project emphasizes accuracy, accessibility, and practical utility for developers, researchers, and decision-makers working with geospatial data.
+
 ## thai-amx
 ### Overview
 The `thai-amx` dataset is a part of the Thai-AMX project, which focuses on the strategic use of geospatial information. This dataset provides parcel data for Thailand and is designed to support various applications, including urban planning, disaster management, and infrastructure development. For more information, usage examples, and project documentation, please visit the [Thai-AMX GitHub repository](https://github.com/amx-project/thai-amx).
